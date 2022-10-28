@@ -1,0 +1,17 @@
+item {
+  id: 1
+  name: '1'
+  display_name: 'NG1'
+}
+
+item {
+  id: 2
+  name: '2'
+  display_name: 'NG2'
+}
+
+item {
+  id: 3
+  name: '3'
+  display_name: 'NG3'
+}
